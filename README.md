@@ -11,5 +11,4 @@
 ### Dashboard
 ![Dashboard](screenshots/pending.png)
 
-### asigntask
-![Assigntask](screenshots/Assign_task.png)
+
