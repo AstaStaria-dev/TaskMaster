@@ -5,7 +5,7 @@
 ### Home
 ![Home](screenshots/home.png)
 
-### Login
+### Calendar
 ![Login](screenshots/calendar.png)
 
 ### Dashboard
