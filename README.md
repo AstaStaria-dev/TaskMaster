@@ -6,10 +6,10 @@
 ![Home](screenshots/home.png)
 
 ### Login
-![Login](screenshots/calender.png)
+![Login](screenshots/calendar.png)
 
 ### Dashboard
 ![Dashboard](screenshots/pending.png)
 
 ### asigntask
-![Assign_task](screenshots/Assign_task.png)
+![Assigntask](screenshots/Assign_task.png)
