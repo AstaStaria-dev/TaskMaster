@@ -8,7 +8,7 @@
 ### Calendar
 ![Login](screenshots/calendar.png)
 
-### Dashboard
+### Overview
 ![Dashboard](screenshots/pending.png)
 
 
