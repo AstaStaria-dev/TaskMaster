@@ -1,17 +1,15 @@
 # Here are your Instructions
 
-## Screenshots
+
 
 ### Home
-![Home](assets/screenshot/home.png)
+![Home](screenshots/home.png)
 
-### Calendar
-![Calendar](assets/screenshot/calendar.png)
+### Login
+![Login](screenshots/calender.png)
 
-### Assign Task
-![Assign Task](assets/screenshot/Assign_task.png)
+### Dashboard
+![Dashboard](screenshots/pending.png)
 
-### Pending
-![Pending](assets/screenshot/pending.png)
-
-
+### asigntask
+![Assign_task](screenshots/Assign_task.png)
